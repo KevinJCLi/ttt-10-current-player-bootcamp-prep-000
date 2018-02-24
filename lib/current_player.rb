@@ -1,3 +1,3 @@
 def turn_count(board)
-  board.each|tic_or_tac|
+  board.each do |tic_or_tac|
     
